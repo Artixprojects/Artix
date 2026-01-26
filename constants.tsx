@@ -1,5 +1,6 @@
 import YashImg from './Yash.png';
 import KeshavImg from './Keshav.png';
+import PanditImg from './Adstiya.png';
 import React from 'react';
 import { 
   Palette, Video, Layout, Code, PenTool, Smartphone, 
@@ -134,30 +135,30 @@ export const PLANS: PackagePlan[] = [
 
 export const TEAM_MEMBERS: TeamMember[] = [
   {
-    id: 'AD-01',
+    id: 'YA-01',
     name: 'YASH',
-    role: 'HEAD_OF_OPERATIONS',
+    role: 'DESIGN_MANAGEMENT',
     specialization: 'CREATIVE_DIRECTION',
     imageUrl: YashImg
   },
   {
     id: 'KE-02',
     name: 'KESHAV',
-    role: 'CHIEF_DESIGN_ENGINEER',
+    role: 'DEVELOPMENT_MANAGEMENT',
     specialization: 'VISUAL_SYSTEMS',
     imageUrl: KeshavImg
   },
   {
-    id: 'YA-03',
+    id: 'AD-03',
     name: 'ADITYA',
-    role: 'LEAD_CONTENT_ARCHITECT',
+    role: 'LEAD_MANAGEMENT',
     specialization: 'SOCIAL_DYNAMICS',
-    imageUrl: 'https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=1000&auto=format&fit=crop'
+    imageUrl: PanditImg
   },
   {
     id: 'YS-04',
-    name: 'YASKH',
-    role: 'FULL_STACK_DEVELOPER',
+    name: 'YAKSH',
+    role: 'CMNH_MANAGEMENT',
     specialization: 'NEURAL_APPS',
     imageUrl: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1000&auto=format&fit=crop'
   }
