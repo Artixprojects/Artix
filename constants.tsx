@@ -137,14 +137,14 @@ export const TEAM_MEMBERS: TeamMember[] = [
     name: 'YASH',
     role: 'HEAD_OF_OPERATIONS',
     specialization: 'CREATIVE_DIRECTION',
-    imageUrl: 'Keshav.png'
+    imageUrl: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1000&auto=format&fit=crop'
   },
   {
     id: 'KE-02',
     name: 'KESHAV',
     role: 'CHIEF_DESIGN_ENGINEER',
     specialization: 'VISUAL_SYSTEMS',
-    imageUrl: 'Artix/Keshav.pngq=80&w=1000&auto=format&fit=crop'
+    imageUrl: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1000&auto=format&fit=crop'
   },
   {
     id: 'YA-03',
