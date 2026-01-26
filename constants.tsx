@@ -137,7 +137,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     name: 'YASH',
     role: 'HEAD_OF_OPERATIONS',
     specialization: 'CREATIVE_DIRECTION',
-    imageUrl: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1000&auto=format&fit=crop'
+    imageUrl: 'Keshav.png'
   },
   {
     id: 'KE-02',
