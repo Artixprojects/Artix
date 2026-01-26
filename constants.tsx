@@ -134,7 +134,7 @@ export const PLANS: PackagePlan[] = [
 export const TEAM_MEMBERS: TeamMember[] = [
   {
     id: 'AD-01',
-    name: 'ADITYA',
+    name: 'YASH',
     role: 'HEAD_OF_OPERATIONS',
     specialization: 'CREATIVE_DIRECTION',
     imageUrl: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1000&auto=format&fit=crop'
@@ -148,14 +148,14 @@ export const TEAM_MEMBERS: TeamMember[] = [
   },
   {
     id: 'YA-03',
-    name: 'YAKSH',
+    name: 'ADITYA',
     role: 'LEAD_CONTENT_ARCHITECT',
     specialization: 'SOCIAL_DYNAMICS',
     imageUrl: 'https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=1000&auto=format&fit=crop'
   },
   {
     id: 'YS-04',
-    name: 'YASH',
+    name: 'YASKH',
     role: 'FULL_STACK_DEVELOPER',
     specialization: 'NEURAL_APPS',
     imageUrl: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1000&auto=format&fit=crop'
