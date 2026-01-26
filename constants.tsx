@@ -47,7 +47,7 @@ export const SERVICES: Service[] = [
   { 
     id: '3', 
     title: 'Reels & Shorts', 
-    price: '₹300–₹400', 
+    price: '₹600–₹700', 
     details: 'Fast-paced, high-retention short-form content editing.', 
     specifications: ['Trend Integration', 'Dynamic Captions', 'Audio Normalization'],
     icon: 'Video', 
