@@ -1,4 +1,5 @@
-
+import YashImg from './Yash.png';
+import KeshavImg from './Keshav.png';
 import React from 'react';
 import { 
   Palette, Video, Layout, Code, PenTool, Smartphone, 
@@ -137,14 +138,14 @@ export const TEAM_MEMBERS: TeamMember[] = [
     name: 'YASH',
     role: 'HEAD_OF_OPERATIONS',
     specialization: 'CREATIVE_DIRECTION',
-    imageUrl: 'Yash.png'
+    imageUrl: YashImg
   },
   {
     id: 'KE-02',
     name: 'KESHAV',
     role: 'CHIEF_DESIGN_ENGINEER',
     specialization: 'VISUAL_SYSTEMS',
-    imageUrl: 'Keshav.png'
+    imageUrl: KeshavImg
   },
   {
     id: 'YA-03',
