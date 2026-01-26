@@ -144,7 +144,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     name: 'KESHAV',
     role: 'CHIEF_DESIGN_ENGINEER',
     specialization: 'VISUAL_SYSTEMS',
-    imageUrl: 'Keshav.pngq=80&w=1000&auto=format&fit=crop'
+    imageUrl: 'Artix/Keshav.pngq=80&w=1000&auto=format&fit=crop'
   },
   {
     id: 'YA-03',
