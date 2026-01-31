@@ -157,7 +157,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
   },
   {
     id: 'YS-04',
-    name: 'YAKSH',
+    name: '_______',
     role: 'CMNH_MANAGEMENT',
     specialization: 'NEURAL_APPS',
     imageUrl: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1000&auto=format&fit=crop'
